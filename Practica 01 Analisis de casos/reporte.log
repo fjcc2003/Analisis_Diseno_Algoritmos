@@ -1,0 +1,552 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.4)  15 SEP 2023 23:19
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/Analisis y Diseño de Algoritmos/Programas/Analisis_Diseno_Algoritmos/Practica 01 Analisis de casos/reporte.tex"
+(d:/Analisis y Diseño de Algoritmos/Programas/Analisis_Diseno_Algoritmos/Practica 01 Analisis de casos/reporte.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Program Files\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen140
+\@IEEEtrantmpdimenB=\dimen141
+\@IEEEtrantmpdimenC=\dimen142
+\@IEEEtrantmpcountA=\count185
+\@IEEEtrantmpcountB=\count186
+\@IEEEtrantmpcountC=\count187
+\@IEEEtrantmptoksA=\toks17
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen143
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen144
+\CLASSINFOnormalsizeunitybaselineskip=\dimen145
+\IEEEnormaljot=\dimen146
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen147
+\IEEEquantizedlengthdiff=\dimen148
+\IEEEquantizedtextheightdiff=\dimen149
+\IEEEilabelindentA=\dimen150
+\IEEEilabelindentB=\dimen151
+\IEEEilabelindent=\dimen152
+\IEEEelabelindent=\dimen153
+\IEEEdlabelindent=\dimen154
+\IEEElabelindent=\dimen155
+\IEEEiednormlabelsep=\dimen156
+\IEEEiedmathlabelsep=\dimen157
+\IEEEiedtopsep=\skip48
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@IEEEsubequation=\count192
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\c@figure=\count193
+\c@table=\count194
+\@IEEEeqnnumcols=\count195
+\@IEEEeqncolcnt=\count196
+\@IEEEsubeqnnumrollback=\count197
+\@IEEEquantizeheightA=\dimen158
+\@IEEEquantizeheightB=\dimen159
+\@IEEEquantizeheightC=\dimen160
+\@IEEEquantizeprevdepth=\dimen161
+\@IEEEquantizemultiple=\count198
+\@IEEEquantizeboxA=\box51
+\@IEEEtmpitemindent=\dimen162
+\IEEEPARstartletwidth=\dimen163
+\c@IEEEbiography=\count199
+\@IEEEtranrubishbin=\box52
+) (C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+) (C:\Program Files\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+ (C:\Program Files\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count266
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Program Files\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Program Files\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+) (C:\Program Files\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box53
+)
+\tc@llx=\dimen166
+\tc@lly=\dimen167
+\tc@urx=\dimen168
+\tc@ury=\dimen169
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Program Files\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen170
+\adjbox@Height=\dimen171
+\adjbox@Depth=\dimen172
+\adjbox@Totalheight=\dimen173
+\adjbox@pwidth=\dimen174
+\adjbox@pheight=\dimen175
+\adjbox@pdepth=\dimen176
+\adjbox@ptotalheight=\dimen177
+ (C:\Program Files\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count267
+) (C:\Program Files\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box54
+\sift@deathcycles=\count268
+\@vwid@loff=\dimen178
+\@vwid@roff=\dimen179
+)) (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 112.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)) (C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count269
+\float@exts=\toks22
+\float@box=\box55
+\@float@everytoks=\toks23
+\@floatcapt=\box56
+) (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/08/29 v3.93 The Babel package
+\babel@savecnt=\count270
+\U@D=\dimen180
+\l@unhyphenated=\language79
+ (C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count271
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Program Files\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks24
+\es@quotdepth=\count272
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+)) (C:\Program Files\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box57
+) (reporte.aux
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+)
+\openout1 = `reporte.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+-- Lines per column: 58 (exact).
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count274
+\scratchdimen=\dimen181
+\scratchbox=\box58
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen182
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks26
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Program Files\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Program Files\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+<upiiz_logo.png, id=1, 1185.228pt x 1204.2591pt>
+File: upiiz_logo.png Graphic file (type png)
+<use upiiz_logo.png>
+Package pdftex.def Info: upiiz_logo.png  used on input line 14.
+(pdftex.def)             Requested size: 206.39685pt x 209.7011pt.
+ [0
+
+
+{C:/Users/Francisco Calderon/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./upiiz_logo.png>]
+<1.PNG, id=9, 124.21407pt x 49.68562pt>
+File: 1.PNG Graphic file (type png)
+<use 1.PNG>
+Package pdftex.def Info: 1.PNG  used on input line 76.
+(pdftex.def)             Requested size: 103.19843pt x 41.27998pt.
+<2.PNG, id=10, 479.54156pt x 423.83344pt>
+File: 2.PNG Graphic file (type png)
+<use 2.PNG>
+Package pdftex.def Info: 2.PNG  used on input line 94.
+(pdftex.def)             Requested size: 258.0pt x 228.03236pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 93--96
+ [] 
+ []
+
+<3.PNG, id=11, 543.53062pt x 603.0028pt>
+File: 3.PNG Graphic file (type png)
+<use 3.PNG>
+Package pdftex.def Info: 3.PNG  used on input line 106.
+(pdftex.def)             Requested size: 258.0pt x 286.24529pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 105--108
+ [] 
+ []
+
+<4.PNG, id=12, 364.36125pt x 294.34969pt>
+File: 4.PNG Graphic file (type png)
+<use 4.PNG>
+Package pdftex.def Info: 4.PNG  used on input line 121.
+(pdftex.def)             Requested size: 258.0pt x 208.43279pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 120--123
+ [] 
+ []
+
+[1
+
+ <./1.PNG> <./2.PNG> <./3.PNG>]
+<5.PNG, id=22, 338.76563pt x 352.31625pt>
+File: 5.PNG Graphic file (type png)
+<use 5.PNG>
+Package pdftex.def Info: 5.PNG  used on input line 134.
+(pdftex.def)             Requested size: 258.0pt x 268.32759pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 133--136
+ [] 
+ []
+
+<6.PNG, id=23, 353.82187pt x 237.88875pt>
+File: 6.PNG Graphic file (type png)
+<use 6.PNG>
+Package pdftex.def Info: 6.PNG  used on input line 150.
+(pdftex.def)             Requested size: 258.0pt x 173.46495pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 149--152
+ [] 
+ []
+
+<7.PNG, id=24, 325.96782pt x 55.70813pt>
+File: 7.PNG Graphic file (type png)
+<use 7.PNG>
+Package pdftex.def Info: 7.PNG  used on input line 162.
+(pdftex.def)             Requested size: 258.0pt x 44.09563pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 161--164
+ [] 
+ []
+
+<8.PNG, id=25, 395.97937pt x 273.27094pt>
+File: 8.PNG Graphic file (type png)
+<use 8.PNG>
+Package pdftex.def Info: 8.PNG  used on input line 190.
+(pdftex.def)             Requested size: 258.0pt x 178.05347pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 189--192
+ [] 
+ []
+
+<9.PNG, id=26, 343.2825pt x 47.42719pt>
+File: 9.PNG Graphic file (type png)
+<use 9.PNG>
+Package pdftex.def Info: 9.PNG  used on input line 197.
+(pdftex.def)             Requested size: 258.0pt x 35.6441pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 196--199
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./4.PNG> <./5.PNG> <./6.PNG> <./7.PNG>]
+<10.PNG, id=34, 450.18187pt x 283.81032pt>
+File: 10.PNG Graphic file (type png)
+<use 10.PNG>
+Package pdftex.def Info: 10.PNG  used on input line 204.
+(pdftex.def)             Requested size: 258.0pt x 162.657pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 203--206
+ [] 
+ []
+
+<11.PNG, id=35, 333.49594pt x 44.41594pt>
+File: 11.PNG Graphic file (type png)
+<use 11.PNG>
+Package pdftex.def Info: 11.PNG  used on input line 211.
+(pdftex.def)             Requested size: 258.0pt x 34.3637pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 210--213
+ [] 
+ []
+
+<12.PNG, id=36, 349.305pt x 261.97874pt>
+File: 12.PNG Graphic file (type png)
+<use 12.PNG>
+Package pdftex.def Info: 12.PNG  used on input line 218.
+(pdftex.def)             Requested size: 258.0pt x 193.50946pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 217--220
+ [] 
+ []
+
+<13.PNG, id=37, 345.54094pt x 39.89906pt>
+File: 13.PNG Graphic file (type png)
+<use 13.PNG>
+Package pdftex.def Info: 13.PNG  used on input line 225.
+(pdftex.def)             Requested size: 258.0pt x 29.79147pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 224--227
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<14.PNG, id=38, 354.57469pt x 255.20343pt>
+File: 14.PNG Graphic file (type png)
+<use 14.PNG>
+Package pdftex.def Info: 14.PNG  used on input line 233.
+(pdftex.def)             Requested size: 258.0pt x 185.69727pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 232--235
+ [] 
+ []
+
+<15.PNG, id=39, 350.81062pt x 32.37094pt>
+File: 15.PNG Graphic file (type png)
+<use 15.PNG>
+Package pdftex.def Info: 15.PNG  used on input line 240.
+(pdftex.def)             Requested size: 258.0pt x 23.8084pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 239--242
+ [] 
+ []
+
+<16.PNG, id=40, 386.94562pt x 243.15843pt>
+File: 16.PNG Graphic file (type png)
+<use 16.PNG>
+Package pdftex.def Info: 16.PNG  used on input line 247.
+(pdftex.def)             Requested size: 258.0pt x 162.12871pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 246--249
+ [] 
+ []
+
+<17.PNG, id=41, 335.00156pt x 36.88782pt>
+File: 17.PNG Graphic file (type png)
+<use 17.PNG>
+Package pdftex.def Info: 17.PNG  used on input line 254.
+(pdftex.def)             Requested size: 258.0pt x 28.40875pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 253--256
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./8.PNG> <./9.PNG> <./10.PNG> <./11.PNG> <./12.PNG> <./13.PNG> <./14.PNG> <./15.PNG>]
+<18.PNG, id=53, 385.44pt x 280.04625pt>
+File: 18.PNG Graphic file (type png)
+<use 18.PNG>
+Package pdftex.def Info: 18.PNG  used on input line 261.
+(pdftex.def)             Requested size: 258.0pt x 187.45053pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 260--263
+ [] 
+ []
+
+<19.PNG, id=54, 358.33875pt x 42.1575pt>
+File: 19.PNG Graphic file (type png)
+<use 19.PNG>
+Package pdftex.def Info: 19.PNG  used on input line 268.
+(pdftex.def)             Requested size: 258.0pt x 30.35464pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 267--270
+ [] 
+ []
+
+<20.PNG, id=55, 374.90062pt x 310.15875pt>
+File: 20.PNG Graphic file (type png)
+<use 20.PNG>
+Package pdftex.def Info: 20.PNG  used on input line 285.
+(pdftex.def)             Requested size: 258.0pt x 213.45604pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 284--287
+ [] 
+ []
+
+<21.PNG, id=56, 370.38374pt x 32.37094pt>
+File: 21.PNG Graphic file (type png)
+<use 21.PNG>
+Package pdftex.def Info: 21.PNG  used on input line 292.
+(pdftex.def)             Requested size: 258.0pt x 22.54884pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 291--294
+ [] 
+ []
+
+<22.PNG, id=57, 353.82187pt x 268.75406pt>
+File: 22.PNG Graphic file (type png)
+<use 22.PNG>
+Package pdftex.def Info: 22.PNG  used on input line 299.
+(pdftex.def)             Requested size: 258.0pt x 195.97148pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 298--301
+ [] 
+ []
+
+<23.PNG, id=58, 328.22626pt x 48.18pt>
+File: 23.PNG Graphic file (type png)
+<use 23.PNG>
+Package pdftex.def Info: 23.PNG  used on input line 306.
+(pdftex.def)             Requested size: 258.0pt x 37.87209pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 305--308
+ [] 
+ []
+
+[4 <./16.PNG> <./17.PNG> <./18.PNG> <./19.PNG> <./20.PNG> <./21.PNG> <./22.PNG> <./23.PNG>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 322.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 322.
+ [5] (reporte.aux
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 5771 strings out of 475247
+ 99167 string characters out of 5767567
+ 1928801 words of memory out of 5000000
+ 27223 multiletter control sequences out of 15000+600000
+ 661968 words of font info for 127 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 86i,8n,93p,389b,387s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on reporte.pdf (6 pages, 5315535 bytes).
+PDF statistics:
+ 106 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+

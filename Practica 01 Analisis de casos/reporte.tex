@@ -1,0 +1,391 @@
+\documentclass[journal]{IEEEtran}
+\usepackage[utf8]{inputenc}
+\usepackage{adjustbox}
+\usepackage[T1]{fontenc}
+\usepackage{float}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    \vspace*{1cm}
+    \includegraphics[width=0.4\textwidth]{upiiz_logo.png}\par
+    \vspace{1cm}
+    {\LARGE Instituto Politecnico Nacional\par}
+    \vspace{1cm}
+    {\Large Unidad Profesional Interdisciplinaria de Ingeniería Campus Zacatecas IPN\par}
+    \vspace{1cm}
+    {\large Alumno: Francisco Javier Calderon Corrales\par}
+    \vspace{0.5cm}
+    {\large Trabajo: Practica 01: Analisis de casos\par}
+    \vspace{0.5cm}
+    {\large Carrera: Ingeniería en sistemas computacionales\par}
+    \vspace{0.5cm}
+    {\large Grupo: 3CM1\par}
+    \vspace{0.5cm}
+    {\large Docente: Erika Sánchez-Femat\par}
+    \vspace{0.5cm}
+    {\large Boleta: 2022670255\par}
+    \vspace{1cm}
+    {\large Fecha: \today\par}
+\end{titlepage}
+
+\begin{abstract}
+    En este documento se abordará el tema del análisis de casos 
+    para los algoritmos, más específicamente del algoritmo de 
+    ordenamiento por el método de burbuja, se hablara acerca del 
+    algoritmo de burbuja y su implementación, así como la versión 
+    optimizada de este algoritmo, por último se detalla la complejidad 
+    del algoritmo por la notación big-oh
+\end{abstract}
+
+\section{Introducción}
+En el vasto universo de la informática y la programación, la optimización 
+de algoritmos es una tarea esencial para mejorar el rendimiento y la 
+eficiencia de las aplicaciones y procesos. Uno de los algoritmos de 
+ordenamiento más básicos y fundamentales es el algoritmo de ordenamiento 
+por burbuja. Sin embargo, la simplicidad de este algoritmo se traduce en 
+un rendimiento deficiente cuando se trata de grandes conjuntos de datos. 
+En respuesta a esta limitación, se ha desarrollado una variante conocida 
+como el algoritmo de burbuja optimizada, diseñado para mitigar la ineficiencia 
+de su contraparte original.
+
+El objetivo principal de este informe es explorar y comparar estos dos 
+algoritmos de clasificación: el algoritmo de burbuja clásico y su versión 
+optimizada. Examinaremos sus fundamentos teóricos, su funcionamiento en 
+términos de tiempo y espacio, y cómo cada uno aborda los desafíos asociados 
+con la clasificación de datos. Además, realizaremos un análisis exhaustivo 
+de casos de uso reales para comprender mejor en qué situaciones uno puede 
+destacar sobre el otro.
+
+
+\section{Desarrollo}
+\subsection{implementación de los algoritmos}
+Implementar los algoritmos de burbuja y burbuja optimizada fue una tarea 
+sencilla, para comenzar la implementación lo primero es importar 
+las librerías que ocuparemos para desarrollar el programa cumpliendo 
+con los requerimientos estipulados en la práctica, utilice las librerías 
+de time para determinar el tiempo de ejecución, random para que el usuario 
+tenga la opción de llenar el arreglo de forma aleatoria y os para poder 
+controlar la ejecución y poder pausar la ejecución
+\begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.2\textwidth]{1.PNG}
+    \end{adjustbox}
+    \caption{importacion de las librerias}
+  \end{figure}
+
+
+Después se continúa con la declaración de las variables a 
+utilizar así como las definiciones de las funciones, 
+utilice una función por cada algoritmo es decir que tenemos
+2 funciones una con el algoritmo de burbuja normal y otra 
+con el algoritmo de burbuja optimizada, también como se 
+puede apreciar agregue unos métodos que guardan el tiempo 
+actual en una variable esto para saber el tiempo de ejecución.
+
+
+\begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{2.PNG}
+    \end{adjustbox}
+    \caption{definicion de las funciones}
+  \end{figure}
+
+Por último se realizó el menú con las diferentes 
+opciones necesarias para las pruebas y para los 
+requerimientos de las prácticas.
+
+\begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{3.PNG}
+    \end{adjustbox}
+    \caption{Una parte de la implementacion del menu}
+  \end{figure}
+
+\subsection{Analisis de casos}
+Ahora ha llegado el momento de probar los algoritmos, 
+para esto probaremos los dos algoritmos para el mejor 
+caso, el peor caso y el caso medio, dando 3 ejemplos de 
+cada uno. Primero probaremos el algoritmo de burbuja 
+clásico para el mejor caso.
+
+\begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{4.PNG}
+    \end{adjustbox}
+    \caption{Preparacion para el mejor caso de burbuja clasico}
+  \end{figure}
+
+  Como se puede apreciar en la figura 4 seleccionamos 
+  el ordenamiento de burbuja y también introducimos un 
+  arreglo de 1000 elementos como mejor caso, es decir 
+  que el array ya está ordenado ahora es momento de ejecutarlo.
+
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{5.PNG}
+    \end{adjustbox}
+    \caption{Ejecución del ordenamiento de burbuja clasico}
+  \end{figure}
+
+  Como se observa en la figura 5 el arreglo quedó igual debido 
+  a que es el mejor caso, el algoritmo solo tuvo que comprobar 
+  que todo estuviera ordenado sin realizar ningún cambio por 
+  ende el tiempo de ejecución fue muy reducido.
+
+  Ahora usaremos el algoritmo de ordenamiento por 
+  burbuja optimizada, manteniendo el mejor caso y 
+  el mismo tamaño de arreglo.
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{6.PNG}
+    \end{adjustbox}
+    \caption{Preparacion para el mejor caso de burbuja optimizada}
+  \end{figure}
+
+  Como podemos ver en la figura 6 tenemos seleccionado
+   el algoritmo de burbuja optimizada y como ya se 
+   mencionó mantenemos el mejor caso y el mismo tamaño
+   del arreglo, ahora ejecute el algoritmo de burbuja optimizada
+   \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{7.PNG}
+    \end{adjustbox}
+    \caption{Ejecución del ordenamiento de burbuja optimizada}
+  \end{figure}
+  En la figura 7 se aprecia que el tiempo de ejecución 
+  fue tan bajo que tiende a cero, esto porque el 
+  algoritmo de burbuja optimizada utiliza una bandera 
+  para ver si en una iteración se realizó un cambio, 
+  esto es para que en caso de que el algoritmo no haya 
+  hecho algún cambio entonces sale del ciclo dando por 
+  terminado el ordenamiento, esto aunque no haya terminado 
+  el total de las iteraciones que debería.
+
+
+  Ahora vamos a hacer el análisis del caso medio, 
+  para esto utilizare un arreglo llenado aleatoriamente, 
+  pero, manteniendo los 1000 elementos, como en el análisis 
+  del mejor caso utilizare primeramente el algoritmo de 
+  burbuja y posteriormente el de burbuja optimizada, es 
+  importante recalcar que al ser el caso medio tendre que 
+  ejecutar el algoritmo por lo menos 3 veces con diferentes 
+  arreglos pero con el mismo tamaño, esto para promediar el 
+  tiempo de ejecución de un caso medio para los dos algoritmos 
+  de ordenamiento, ahora es momento de ejecutarlo.
+
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{8.PNG}
+    \end{adjustbox}
+    \caption{Preparacion Para la primera ejecución de burbuja clasica}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{9.PNG}
+    \end{adjustbox}
+    \caption{Primera ejecución del ordenamiento de burbuja clasica}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{10.PNG}
+    \end{adjustbox}
+    \caption{Preparacion Para la segunda ejecución de burbuja clasica}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{11.PNG}
+    \end{adjustbox}
+    \caption{Segunda ejecución del ordenamiento de burbuja clasica}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{12.PNG}
+    \end{adjustbox}
+    \caption{Preparacion Para la tercera ejecución de burbuja clasica}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{13.PNG}
+    \end{adjustbox}
+    \caption{Tercera ejecución del ordenamiento de burbuja clasica}
+  \end{figure}
+  Ahora continuaré con el algoritmo de burbuja optimizada.
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{14.PNG}
+    \end{adjustbox}
+    \caption{Preparacion para la primera ejecución de burbuja optimizada}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{15.PNG}
+    \end{adjustbox}
+    \caption{Primera ejecución del ordenamiento de burbuja optimizada}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{16.PNG}
+    \end{adjustbox}
+    \caption{Preparacion para la segunda ejecución de burbuja optimizada}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{17.PNG}
+    \end{adjustbox}
+    \caption{Segunda ejecución del ordenamiento de burbuja optimizada}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{18.PNG}
+    \end{adjustbox}
+    \caption{Preparacion para la tercera ejecución de burbuja optimizada}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{19.PNG}
+    \end{adjustbox}
+    \caption{Tercera ejecución del ordenamiento de burbuja optimizada}
+  \end{figure}
+  Como podemos apreciar no hay mucha diferencia entre los 
+  tiempos de ejecución de burbuja y burbuja optimizada, 
+  sorprendentemente el algoritmo de burbuja clásica tuvo 
+  tiempos de ejecución ligeramente menores, es necesario 
+  recalcar que los tiempos de ejecución de los algoritmos 
+  depende del volumen de los datos a ordenar y también del 
+  arreglo puede haber casos medios que estén más cerca de 
+  ser el peor caso y otros que estén más cerca de ser el 
+  mejor caso. Ahora continuaré ejecutando el peor caso 
+  para los dos algoritmos.
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{20.PNG}
+    \end{adjustbox}
+    \caption{Preparacion para ejecución de peor caso de burbuja clasica}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{21.PNG}
+    \end{adjustbox}
+    \caption{Ejecución de peor caso de burbuja clasica}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{22.PNG}
+    \end{adjustbox}
+    \caption{Preparacion para ejecución de peor caso de burbuja optimizada}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \begin{adjustbox}{clip=false}
+      \includegraphics[width=0.5\textwidth]{23.PNG}
+    \end{adjustbox}
+    \caption{Ejecución de peor caso de burbuja optimizada}
+  \end{figure}
+  Aquí se puede apreciar que prácticamente no hay 
+  diferencia entre el tiempo de ejecución de burbuja 
+  y burbuja optimizada, esto porque en el peor caso 
+  los dos algoritmos hacen prácticamente lo mismo.
+
+  Por último clasificaré los algoritmos según la notación 
+  Big-O. La notación
+   Big-O (O) se utiliza para describir la complejidad 
+   temporal de los algoritmos en términos de su peor 
+   caso, es decir, cómo aumenta el tiempo de ejecución 
+   del algoritmo en función del tamaño de la entrada (n).
+   \subsection{Burbuja clasica}
+   Notación Big-O (Peor Caso): $O(n^{2})$
+ En el peor caso, el algoritmo de burbuja compara y 
+ realiza intercambios en cada par de elementos del 
+ arreglo, lo que lleva a una complejidad cuadrática 
+ $(n^2)$. Esto significa que a medida que el tamaño del 
+ arreglo $(n)$ aumenta, el tiempo de ejecución crece 
+ cuadráticamente. Esto lo convierte en una opción 
+ ineficiente para grandes conjuntos de datos, ya que el 
+ tiempo de ejecución aumenta de manera significativa y 
+ puede volverse prohibitivo.
+ \subsection{Burbuja optimizada}
+ Notación Big-O (Peor Caso): $O(n^{2})$
+Justificación: A pesar de su nombre, el algoritmo 
+de burbuja optimizada conserva la misma notación 
+Big-O que el algoritmo de burbuja en el peor caso. 
+La optimización en el algoritmo de burbuja optimizada 
+radica en reducir el número de comparaciones y asignaciones 
+realizadas durante la ejecución, pero aún así, en el peor 
+caso, sigue teniendo una complejidad cuadrática. La razón 
+de esto es que el algoritmo todavía tiene que recorrer 
+todo el arreglo en cada iteración, incluso si no se realizan 
+intercambios en una pasada completa.
+\subsection{Comparacion de resultados}
+tanto el algoritmo de burbuja como el algoritmo 
+de burbuja optimizada tienen una complejidad 
+temporal en el peor caso de $O(n^{2})$. La diferencia 
+principal radica en la cantidad de operaciones 
+realizadas en cada iteración, siendo la burbuja 
+optimizada ligeramente más eficiente debido a menos 
+comparaciones y asignaciones. Sin embargo, ambos 
+algoritmos no son ideales para conjuntos de datos 
+grandes y se recomienda su uso en situaciones donde 
+el tamaño del conjunto de datos es relativamente 
+pequeño o cuando se requiere un algoritmo de clasificación 
+simple y fácil de implementar.
+
+\section{Conclusion}
+En este análisis comparativo de los algoritmos de 
+burbuja y burbuja optimizada, hemos explorado sus 
+fundamentos teóricos, su complejidad temporal y su 
+rendimiento en diversos casos de uso. Estos dos 
+algoritmos, a pesar de ser relativamente simples, 
+ofrecen perspectivas valiosas sobre cómo se pueden 
+optimizar y evaluar los algoritmos de clasificación.
+
+En términos de su complejidad temporal en el peor caso, 
+tanto el algoritmo de burbuja como su versión optimizada 
+exhiben una complejidad cuadrática $O(n^{2})$, lo que significa 
+que su eficiencia disminuye significativamente a medida 
+que aumenta el tamaño del conjunto de datos. Sin embargo, 
+en el mejor caso, ambos algoritmos operan de manera lineal 
+$O(n)$ cuando el arreglo ya está ordenado, lo que destaca su 
+simplicidad y eficiencia en situaciones específicas.
+
+La principal diferencia entre estos dos algoritmos radica 
+en su rendimiento en casos intermedios y su capacidad para 
+manejar conjuntos de datos en los que solo se necesitan
+ unos pocos intercambios para ordenarlos. La burbuja optimizada
+  reduce el número de comparaciones y asignaciones en 
+  comparación con la burbuja clásica, lo que la convierte 
+  en una opción ligeramente más eficiente en la mayoría de 
+  los casos. Sin embargo, es importante destacar que ambos 
+  algoritmos tienden a mostrar un rendimiento similar en la 
+  práctica, ya que el caso medio se acerca más al peor caso
+   debido a la necesidad de múltiples comparaciones e 
+   intercambios.
+
+% Otras secciones y contenido
+
+\end{document}
