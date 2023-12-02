@@ -1,0 +1,642 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.14)  1 DEC 2023 23:45
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"g:/IPN/Materias/Analisis y Diseño de Algoritmos/Practica_02/Reporte.tex"
+(g:/IPN/Materias/Analisis y Diseño de Algoritmos/Practica_02/Reporte.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-01>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count194
+\float@exts=\toks20
+\float@box=\box51
+\@float@everytoks=\toks21
+\@floatcapt=\box52
+) (C:\Program Files\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip50
+\thanksmargin=\skip51
+\droptitle=\skip52
+) (C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count195
+\rotFPtop=\skip53
+\rotFPbot=\skip54
+\rot@float@box=\box53
+\rot@mess@toks=\toks23
+) (C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)) (C:\Program Files\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip55
+\enit@outerparindent=\dimen143
+\enit@toks=\toks24
+\enit@inbox=\box54
+\enit@count@id=\count196
+\enitdp@description=\count197
+) (C:\Program Files\MiKTeX\tex/latex/psnfss\courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen144
+\lightrulewidth=\dimen145
+\cmidrulewidth=\dimen146
+\belowrulesep=\dimen147
+\belowbottomsep=\dimen148
+\aboverulesep=\dimen149
+\abovetopsep=\dimen150
+\cmidrulesep=\dimen151
+\cmidrulekern=\dimen152
+\defaultaddspace=\dimen153
+\@cmidla=\count198
+\@cmidlb=\count199
+\@aboverulesep=\dimen154
+\@belowrulesep=\dimen155
+\@thisruleclass=\count266
+\@lastruleclass=\count267
+\@thisrulewidth=\dimen156
+)
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 38.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-10-23 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box55
+) (Reporte.aux)
+\openout1 = `Reporte.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen157
+\scratchbox=\box56
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen158
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks26
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<logo_upiiz.png, id=1, 1185.228pt x 1204.2591pt>
+File: logo_upiiz.png Graphic file (type png)
+<use logo_upiiz.png>
+Package pdftex.def Info: logo_upiiz.png  used on input line 39.
+(pdftex.def)             Requested size: 103.50105pt x 105.16293pt.
+ [1
+
+{C:/Users/Francisco Calderon/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <./logo_upiiz.png>]
+Overfull \hbox (45.0pt too wide) in paragraph at lines 41--50
+\OT1/pcr/m/n/10 La resoluci[]on eficiente de problemas relacionados con la b[]usqueda
+ []
+
+
+Overfull \hbox (27.0pt too wide) in paragraph at lines 41--50
+\OT1/pcr/m/n/10 de caminos m[]^^Pnimos en grafos ponderados es de suma importancia
+ []
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 41--50
+\OT1/pcr/m/n/10 en diversas []areas, desde la planificaci[]on de rutas en redes
+ []
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 41--50
+\OT1/pcr/m/n/10 de transporte hasta la optimizaci[]on de rutas de paquetes en
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 41--50
+\OT1/pcr/m/n/10 redes de comunicaci[]on. El algoritmo de Dijkstra se presenta
+ []
+
+
+Overfull \hbox (45.0pt too wide) in paragraph at lines 41--50
+\OT1/pcr/m/n/10 como una herramienta valiosa para abordar este tipo de problemas.
+ []
+
+
+Overfull \hbox (21.0pt too wide) in paragraph at lines 41--50
+\OT1/pcr/m/n/10 En esta pr[]actica, exploramos en detalle el funcionamiento del
+ []
+
+
+Overfull \hbox (39.0pt too wide) in paragraph at lines 41--50
+\OT1/pcr/m/n/10 algoritmo de Dijkstra y presentamos su implementaci[]on en Python.
+ []
+
+
+Overfull \hbox (3.0pt too wide) in paragraph at lines 41--50
+\OT1/pcr/m/n/10 La comprensi[]on de este algoritmo es esencial para resolver
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 41--50
+\OT1/pcr/m/n/10 problemas pr[]acticos que involucran la determinaci[]on de rutas
+ []
+
+<figura_1_clase.PNG, id=10, 333.49594pt x 166.37157pt>
+File: figura_1_clase.PNG Graphic file (type png)
+<use figura_1_clase.PNG>
+Package pdftex.def Info: figura_1_clase.PNG  used on input line 54.
+(pdftex.def)             Requested size: 276.00105pt x 137.69739pt.
+
+Overfull \hbox (87.0pt too wide) in paragraph at lines 72--72
+[]    \OT1/pcr/m/n/10 __init__: El m[]etodo __init__ se llama al crear un nuevo objeto de la[] 
+ []
+
+
+Overfull \hbox (75.0pt too wide) in paragraph at lines 72--72
+[]    \OT1/pcr/m/n/10 clase Graph. En este caso, inicializa el atributo vertices como un[] 
+ []
+
+
+Overfull \hbox (99.0pt too wide) in paragraph at lines 72--72
+[]    \OT1/pcr/m/n/10 diccionario vac[]^^Po, donde las claves son los v[]ertices y los valores son[] 
+ []
+
+
+Overfull \hbox (99.0pt too wide) in paragraph at lines 72--72
+[]    \OT1/pcr/m/n/10 listas de tuplas representando los v[]ertices vecinos y los pesos de las[] 
+ []
+
+
+Overfull \hbox (75.0pt too wide) in paragraph at lines 72--72
+[]    \OT1/pcr/m/n/10 add_vertex: Este m[]etodo agrega un v[]ertice al grafo. Verifica si el[] 
+ []
+
+
+Overfull \hbox (105.0pt too wide) in paragraph at lines 72--72
+[]    \OT1/pcr/m/n/10 v[]ertice ya est[]a presente en el diccionario vertices antes de agregarlo.[] 
+ []
+
+
+Overfull \hbox (93.0pt too wide) in paragraph at lines 72--72
+[]    \OT1/pcr/m/n/10 add_edge: Este m[]etodo agrega una arista ponderada al grafo. Recibe el[] 
+ []
+
+
+Overfull \hbox (111.0pt too wide) in paragraph at lines 72--72
+[]    \OT1/pcr/m/n/10 v[]ertice de inicio (start), el v[]ertice final (end) y el peso de la arista[] 
+ []
+
+
+Overfull \hbox (117.0pt too wide) in paragraph at lines 72--72
+[]    \OT1/pcr/m/n/10 (weight). A[]nade una tupla (end, weight) a la lista de vecinos del v[]ertice[] 
+ []
+
+<figura_2_dijkstra.PNG, id=11, 459.21562pt x 486.31688pt>
+File: figura_2_dijkstra.PNG Graphic file (type png)
+<use figura_2_dijkstra.PNG>
+Package pdftex.def Info: figura_2_dijkstra.PNG  used on input line 77.
+(pdftex.def)             Requested size: 276.00105pt x 292.3044pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]\OT1/pcr/m/n/10 Figure 2: funcion de algoritmo de Dijkstra implementada
+ []
+
+[1 <./figura_1_clase.PNG>]
+Overfull \hbox (3.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 dijkstra: Esta funci[]on implementa el algoritmo de Dijkstra[] 
+ []
+
+
+Overfull \hbox (21.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 para encontrar los caminos m[]^^Pnimos desde un v[]ertice de inicio[] 
+ []
+
+
+Overfull \hbox (27.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 hasta todos los dem[]as v[]ertices en un grafo ponderado dirigido.[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 Se inicializa un diccionario distances con distancias iniciales[] 
+ []
+
+
+Overfull \hbox (57.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 establecidas en infinito para todos los v[]ertices excepto el v[]ertice[] 
+ []
+
+
+Overfull \hbox (51.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 Se utiliza una cola de prioridad (priority_queue) implementada con[] 
+ []
+
+
+Overfull \hbox (69.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 un mont[]^^Pculo binario para realizar selecciones eficientes de v[]ertices[] 
+ []
+
+
+Overfull \hbox (99.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 El bucle principal se ejecuta mientras la cola de prioridad no est[]e vac[]^^Pa.[] 
+ []
+
+
+Overfull \hbox (99.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 En cada iteraci[]on, se extrae el v[]ertice con la distancia m[]^^Pnima de la cola[] 
+ []
+
+[2 <./figura_2_dijkstra.PNG>]
+Overfull \hbox (111.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 Se itera sobre los vecinos del v[]ertice actual y se actualizan las distancias[] 
+ []
+
+
+Overfull \hbox (105.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 Los vecinos actualizados se a[]naden a la cola de prioridad (heapq.heappush).[] 
+ []
+
+
+Overfull \hbox (99.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 El resultado final es un diccionario distances que contiene las distancias[] 
+ []
+
+
+Overfull \hbox (51.0pt too wide) in paragraph at lines 105--105
+[]\OT1/pcr/m/n/10 m[]^^Pnimas desde el v[]ertice de inicio hasta todos los dem[]as v[]ertices.[] 
+ []
+
+<figura_3_medicion_tiempo.PNG, id=20, 591.71063pt x 109.1578pt>
+File: figura_3_medicion_tiempo.PNG Graphic file (type png)
+<use figura_3_medicion_tiempo.PNG>
+Package pdftex.def Info: figura_3_medicion_tiempo.PNG  used on input line 109.
+(pdftex.def)             Requested size: 276.00105pt x 50.91774pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]\OT1/pcr/m/n/10 Figure 3: funcion de medicion del tiempo implementada en
+ []
+
+
+Overfull \hbox (87.0pt too wide) in paragraph at lines 116--116
+[]    \OT1/pcr/m/n/10 Finalmente, el c[]odigo incluye una funci[]on measure_time para medir el[] 
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 120.
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 120.
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (81.0pt too wide) in paragraph at lines 118--124
+\OT1/pcr/m/n/10 La complejidad temporal del algoritmo de Dijkstra con la implementaci[]on
+ []
+
+
+Overfull \hbox (21.0pt too wide) in paragraph at lines 118--124
+\OT1/pcr/m/n/10 basada en una cola de prioridad mediante un mont[]^^Pculo binario
+ []
+
+
+Overfull \hbox (93.0pt too wide) in paragraph at lines 118--124
+\OT1/pcr/m/n/10 E es el n[]umero de aristas en el grafo. \OT1/pcr/b/n/10 An[]alisis Manual: \OT1/pcr/m/n/10 Inicializaci[]on: 
+ []
+
+
+Overfull \hbox (42.0pt too wide) in paragraph at lines 125--128
+[]\OT1/pcr/m/n/10 Inicializar el diccionario distances con distancias iniciales:
+ []
+
+
+Overfull \hbox (4.55614pt too wide) in paragraph at lines 125--128
+\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 V\OT1/cmr/m/n/10 )$\OT1/pcr/m/n/10 . Inicializar la cola de prioridad $\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 priority[]ueue\OT1/cmr/m/n/10 )$ \OT1/pcr/m/n/10 con un
+ []
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 131--137
+\OT1/pcr/m/n/10 v[]ertice). En cada iteraci[]on del bucle: Extraer el v[]ertice
+ []
+
+
+Overfull \hbox (5.67297pt too wide) in paragraph at lines 131--137
+\OT1/pcr/m/n/10 con la distancia m[]^^Pnima de la cola de prioridad: $\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 log\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 V\OT1/cmr/m/n/10 ))$\OT1/pcr/m/n/10 .
+ []
+
+
+Overfull \hbox (20.64166pt too wide) in paragraph at lines 131--137
+\OT1/pcr/m/n/10 Iterar sobre los vecinos del v[]ertice actual: $\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 E\OT1/cmr/m/n/10 )$ \OT1/pcr/m/n/10 en el peor
+ []
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 131--137
+\OT1/pcr/m/n/10 caso. Actualizar distancias y agregar vecinos a la cola de
+ []
+
+
+Overfull \hbox (19.2321pt too wide) in paragraph at lines 140--142
+[]\OT1/pcr/m/n/10 La complejidad del bucle principal es $\OML/cmm/m/it/10 O\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 V \OMS/cmsy/m/n/10 ^^O \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 log\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 V\OT1/cmr/m/n/10 ) + \OML/cmm/m/it/10 E \OMS/cmsy/m/n/10 ^^O \OML/cmm/m/it/10 log\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 V\OT1/cmr/m/n/10 )))$\OT1/pcr/m/n/10 .
+ []
+
+<figura_4_caso_1.PNG, id=21, 429.85594pt x 255.95625pt>
+File: figura_4_caso_1.PNG Graphic file (type png)
+<use figura_4_caso_1.PNG>
+Package pdftex.def Info: figura_4_caso_1.PNG  used on input line 147.
+(pdftex.def)             Requested size: 276.00105pt x 164.3465pt.
+[3 <./figura_3_medicion_tiempo.PNG>]
+Overfull \hbox (54.0pt too wide) in paragraph at lines 151--155
+[]\OT1/pcr/m/n/10 En este caso, el grafo es simple y no contiene ciclos negativos.
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 151--155
+\OT1/pcr/m/n/10 El algoritmo de Dijkstra calcular[]a las distancias m[]^^Pnimas desde
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 151--155
+\OT1/pcr/m/n/10 el v[]ertice de inicio "A" hasta todos los dem[]as v[]ertices. Se
+ []
+
+
+Overfull \hbox (13.00002pt too wide) in paragraph at lines 151--155
+\OT1/pcr/m/n/10 espera que los caminos m[]^^Pnimos sean "A" $\OMS/cmsy/m/n/10 !$ \OT1/pcr/m/n/10 "B" con distancia
+ []
+
+<figura_5_caso_2.PNG, id=30, 445.665pt x 257.46187pt>
+File: figura_5_caso_2.PNG Graphic file (type png)
+<use figura_5_caso_2.PNG>
+Package pdftex.def Info: figura_5_caso_2.PNG  used on input line 160.
+(pdftex.def)             Requested size: 276.00105pt x 159.4479pt.
+
+Overfull \hbox (18.0pt too wide) in paragraph at lines 164--168
+[]\OT1/pcr/m/n/10 En este caso, el grafo est[]a desconectado, lo que significa
+ []
+
+
+Overfull \hbox (57.0pt too wide) in paragraph at lines 164--168
+\OT1/pcr/m/n/10 que no hay un camino entre algunos pares de v[]ertices. El algoritmo
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 164--168
+\OT1/pcr/m/n/10 de Dijkstra debe manejar correctamente esta situaci[]on y asignar
+ []
+
+
+Overfull \hbox (3.0pt too wide) in paragraph at lines 164--168
+\OT1/pcr/m/n/10 distancias infinitas a los v[]ertices inalcanzables desde el
+ []
+
+<figura_6_caso_3.PNG, id=31, 458.46281pt x 258.21469pt>
+File: figura_6_caso_3.PNG Graphic file (type png)
+<use figura_6_caso_3.PNG>
+Package pdftex.def Info: figura_6_caso_3.PNG  used on input line 173.
+(pdftex.def)             Requested size: 276.00105pt x 155.45403pt.
+[4 <./figura_4_caso_1.PNG> <./figura_5_caso_2.PNG>]
+Overfull \hbox (24.0pt too wide) in paragraph at lines 177--181
+[]\OT1/pcr/m/n/10 Este caso presenta un grafo que contiene un ciclo negativo.
+ []
+
+
+Overfull \hbox (51.0pt too wide) in paragraph at lines 177--181
+\OT1/pcr/m/n/10 El algoritmo de Dijkstra no maneja adecuadamente ciclos negativos,
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 177--181
+\OT1/pcr/m/n/10 ya que puede resultar en distancias m[]^^Pnimas incorrectas. En
+ []
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 177--181
+\OT1/pcr/m/n/10 lugar de dar el camino m[]^^Pnimo, es probable que el algoritmo
+ []
+
+<figura_7_caso_4.PNG, id=37, 435.12563pt x 242.40562pt>
+File: figura_7_caso_4.PNG Graphic file (type png)
+<use figura_7_caso_4.PNG>
+Package pdftex.def Info: figura_7_caso_4.PNG  used on input line 186.
+(pdftex.def)             Requested size: 276.00105pt x 153.7668pt.
+
+Overfull \hbox (48.0pt too wide) in paragraph at lines 190--194
+[]\OT1/pcr/m/n/10 Este caso presenta un grafo grande con 1000 v[]ertices conectados
+ []
+
+
+Overfull \hbox (21.0pt too wide) in paragraph at lines 190--194
+\OT1/pcr/m/n/10 por aristas de peso 1. El algoritmo de Dijkstra debe manejar
+ []
+
+
+Overfull \hbox (21.0pt too wide) in paragraph at lines 190--194
+\OT1/pcr/m/n/10 eficientemente grafos grandes sin ciclos negativos y calcular
+ []
+
+<figura_8_caso_5.PNG, id=38, 454.69875pt x 277.78781pt>
+File: figura_8_caso_5.PNG Graphic file (type png)
+<use figura_8_caso_5.PNG>
+Package pdftex.def Info: figura_8_caso_5.PNG  used on input line 199.
+(pdftex.def)             Requested size: 276.00105pt x 168.6195pt.
+[5 <./figura_6_caso_3.PNG> <./figura_7_caso_4.PNG>]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 203--207
+[]\OT1/pcr/m/n/10 Explicaci[]on: Este caso presenta un grafo con aristas que
+ []
+
+
+Overfull \hbox (27.0pt too wide) in paragraph at lines 203--207
+\OT1/pcr/m/n/10 tienen diferentes pesos en direcciones opuestas. El algoritmo
+ []
+
+
+Overfull \hbox (39.0pt too wide) in paragraph at lines 203--207
+\OT1/pcr/m/n/10 de Dijkstra debe manejar correctamente este escenario y calcular
+ []
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 203--207
+\OT1/pcr/m/n/10 las distancias m[]^^Pnimas de manera precisa. En este caso, se
+ []
+
+
+Overfull \hbox (7.00002pt too wide) in paragraph at lines 203--207
+\OT1/pcr/m/n/10 espera que el camino m[]^^Pnimo de "A" a "B" sea "A" $\OMS/cmsy/m/n/10 !$ \OT1/pcr/m/n/10 "B" con
+ []
+
+<resultados.PNG, id=44, 758.08218pt x 210.03468pt>
+File: resultados.PNG Graphic file (type png)
+<use resultados.PNG>
+Package pdftex.def Info: resultados.PNG  used on input line 211.
+(pdftex.def)             Requested size: 276.00105pt x 76.46812pt.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 216--223
+[]\OT1/pcr/m/n/10 En conclusi[]on, la implementaci[]on y exploraci[]on del algoritmo
+ []
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 216--223
+\OT1/pcr/m/n/10 de Dijkstra han resultado exitosas en esta pr[]actica. Hemos
+ []
+
+
+Overfull \hbox (21.0pt too wide) in paragraph at lines 216--223
+\OT1/pcr/m/n/10 abordado el problema de caminos m[]^^Pnimos en grafos ponderados,
+ []
+
+
+Overfull \hbox (3.0pt too wide) in paragraph at lines 216--223
+\OT1/pcr/m/n/10 destacando la importancia de este problema en la teor[]^^Pa de
+ []
+
+
+Overfull \hbox (63.0pt too wide) in paragraph at lines 216--223
+\OT1/pcr/m/n/10 grafos y su relevancia en aplicaciones pr[]acticas. La implementaci[]on
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 216--223
+\OT1/pcr/m/n/10 en Python incluy[]o la definici[]on de un grafo ponderado dirigido,
+ []
+
+
+Overfull \hbox (51.0pt too wide) in paragraph at lines 216--223
+\OT1/pcr/m/n/10 la descripci[]on detallada del algoritmo de Dijkstra y su aplicaci[]on
+ []
+
+
+Overfull \hbox (36.0pt too wide) in paragraph at lines 224--231
+[]\OT1/pcr/m/n/10 Adem[]as, se llev[]o a cabo un an[]alisis del algoritmo, incluyendo
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 224--231
+\OT1/pcr/m/n/10 la medici[]on del tiempo de ejecuci[]on para cada caso de prueba
+ []
+
+
+Overfull \hbox (3.0pt too wide) in paragraph at lines 224--231
+\OT1/pcr/m/n/10 y el c[]alculo de su complejidad. Este an[]alisis proporciona
+ []
+
+
+Overfull \hbox (3.0pt too wide) in paragraph at lines 224--231
+\OT1/pcr/m/n/10 una comprensi[]on profunda de la eficiencia del algoritmo en
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 224--231
+\OT1/pcr/m/n/10 t[]erminos de tiempo y espacio, permitiendo evaluar su viabilidad
+ []
+
+
+Overfull \hbox (3.0pt too wide) in paragraph at lines 224--231
+\OT1/pcr/m/n/10 en situaciones del mundo real. La pr[]actica ha contribuido
+ []
+
+
+Overfull \hbox (27.0pt too wide) in paragraph at lines 224--231
+\OT1/pcr/m/n/10 significativamente a la comprensi[]on y aplicaci[]on de algoritmos
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 224--231
+\OT1/pcr/m/n/10 clave en la resoluci[]on de problemas de optimizaci[]on de rutas
+ []
+
+[6 <./figura_8_caso_5.PNG> <./resultados.PNG>] [7] (Reporte.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-01>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2831 strings out of 474591
+ 45185 string characters out of 5755551
+ 1931533 words of memory out of 5000000
+ 24978 multiletter control sequences out of 15000+600000
+ 565569 words of font info for 67 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 58i,7n,67p,275b,272s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on Reporte.pdf (8 pages, 5230049 bytes).
+PDF statistics:
+ 81 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
